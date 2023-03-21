@@ -23,6 +23,7 @@ A=np.array([[1,3],[2,5]])
 B=np.array([5,-3])
 s=np.linalg.solve(A,B)
 print(s)
+```
 
 
 ## Output:
